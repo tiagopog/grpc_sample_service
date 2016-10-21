@@ -26,12 +26,13 @@ $ bundle install
 
 **Server**
 
-```ruby
-ruby server.rb
+```
+$ ruby server.rb
 ```
 
 **Client**
 
-```ruby
-ruby client.rb
+```
+$ ruby client.rb
+"Greeting: Hello Tiago"
 ```
